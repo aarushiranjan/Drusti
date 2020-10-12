@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LandingPage.unity
+    guid: 86b4a2a2dd4ee45dba93f8e517366083
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 0cd33ae48d3f2403e9cd0a7143c1a239
+  - enabled: 1
+    path: Assets/Scenes/LandingPage2.unity
+    guid: 93392fa6afa584c269cfb6ccfd78adb5
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 72c836c9eb44e47ec830be984d140bf4
+  - enabled: 1
+    path: Assets/Scenes/Game1.unity
+    guid: a2ea3a4585f4247f9afedb33fa02b49d
+  - enabled: 1
+    path: Assets/Scenes/Game2.unity
+    guid: 072c746273b2f4501bdb896f4d794434
+  - enabled: 1
+    path: Assets/Scenes/Game3.unity
+    guid: 12e9af25a41a5463d93b81ad292dbfd9
+  - enabled: 1
+    path: Assets/Scenes/Game4.unity
+    guid: 67f31364d3b5545f795c6c18b8cecf00
+  - enabled: 1
+    path: Assets/Scenes/Game5.unity
+    guid: 14ed98b0874ce4edaab748ee5cd72c5f
+  - enabled: 1
+    path: Assets/Scenes/CharGame1.unity
+    guid: 4bf5f987d770447a59f84f2dbd03f5be
+  - enabled: 1
+    path: Assets/Scenes/CharGame2.unity
+    guid: eb76cb02bb5f6475fa80c8ea1476c890
+  - enabled: 1
+    path: Assets/Scenes/MemoryMatch.unity
+    guid: 8009391573ae54cb0a682c02ff701be2
+  - enabled: 1
+    path: Assets/Scenes/ColorMatching.unity
+    guid: 57f54b69ab05649afae9f0f35260dad1
+  - enabled: 1
+    path: Assets/Scenes/SpaceRace.unity
+    guid: 849d684cc836441a2bc8bd330a643ed3
+  - enabled: 1
+    path: Assets/Scenes/ShootingAliens.unity
+    guid: f54b6b883425d42fb99f7cec1f3bbd9c
+  - enabled: 1
+    path: Assets/Scenes/SnipperShoot.unity
+    guid: 5f540bb31bba04af593dbb53daa0f746
+  - enabled: 1
+    path: Assets/Scenes/FlashingLights.unity
+    guid: 948260f8154f9ee45be7db2221a826e0
